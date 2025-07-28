@@ -455,7 +455,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "1753682507620",
+          "title": "PDF24",
+          "href": "https://tools.pdf24.org/zh/",
+          "description": "PDF在线编辑",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "3",
