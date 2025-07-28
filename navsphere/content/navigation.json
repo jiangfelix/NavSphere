@@ -816,7 +816,16 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1753682306684",
+          "title": "主站",
+          "href": "https://awesomeg.5ddd.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
