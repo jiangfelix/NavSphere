@@ -463,6 +463,14 @@
           "description": "PDF在线编辑",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1753682531393",
+          "title": "油管视频下载",
+          "href": "https://ddownr.com/zh7H/youtube-video-downloader",
+          "description": "YouTube视频在线解析下载",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [
