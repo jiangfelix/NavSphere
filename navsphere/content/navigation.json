@@ -824,6 +824,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1753682366019",
+          "title": "主站",
+          "href": "https://awesomeg.5ddd.com",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
