@@ -832,6 +832,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1753682378774",
+          "title": "青龙面板",
+          "href": "https://awesomeg.5ddd.com:15700",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
