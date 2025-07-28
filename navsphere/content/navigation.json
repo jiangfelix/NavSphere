@@ -809,6 +809,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1753682293711",
+      "title": "NAS",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
